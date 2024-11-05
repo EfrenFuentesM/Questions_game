@@ -1,0 +1,50 @@
+category,type,difficulty,question,correct_answer,incorrect_answer_1,incorrect_answer_2,incorrect_answer_3
+Science: Computers,boolean,medium,Early RAM was directly seated onto the motherboard and could not be easily removed.,True,False,,
+Entertainment: Comics,multiple,easy,What is the full first name of the babysitter in Calvin and Hobbes?,Rosalyn,Rose,Ruby,Rachel
+Entertainment: Music,multiple,hard,What was the name of the rock band that Nobuo Uematsu formed that played songs from various Final Fantasy games?,The Black Mages,The Final Fantasies,The Espers,The Rock Summoners
+Science &amp; Nature,multiple,medium,What is Hypernatremia?,Increase in blood sodium,Decrease in blood potassium,Increase in blood glucose,Decrease in blood iron
+General Knowledge,multiple,medium,"In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",Jumping over an office chair,Jumping backwards over a desk,Standing on his head,Typing on a keyboard during a handstand
+Politics,multiple,medium,Which former US president used &quot;Let&#039;s Make America Great Again&quot; as his campaign slogan before Donald Trump&#039;s campaign?,Ronald Reagan,Jimmy Carter,Gerald Ford,Richard Nixon
+Geography,multiple,hard,What is the area of Vatican City?,0.44km^2,0.10km^2,0.86km^2,12.00km^2
+Entertainment: Video Games,boolean,easy,"In &quot;Undertale&quot;, the main character of the game is Sans.",False,True,,
+Entertainment: Video Games,multiple,medium,"In &quot;Overwatch&quot;, what is the name of Mercy&#039;s &quot;ultimate ability&quot;?",Valkyrie,Earthshatter,Rocket Barrage,Molten Core
+Entertainment: Board Games,multiple,medium,In what year was the card game Magic: the Gathering first introduced?,1993,1987,1998,2003
+History,multiple,medium,Where and when was the first cardboard box made for industrial use?,"England, 1817","United States, 1817","England, 1917","United States, 1917"
+Entertainment: Comics,multiple,medium,Which of the following superheros did Wonder Woman NOT have a love interest in?,Green Arrow,Superman,Batman,Steve Trevor
+Entertainment: Music,boolean,easy,John Williams composed the music for &quot;Star Wars&quot;.,True,False,,
+Geography,multiple,hard,What is the capital city of Bermuda?,Hamilton,Santo Dominigo,San Juan,Havana
+Entertainment: Video Games,multiple,medium,"In &quot;The Binding of Isaac&quot;, what is the name of the final boss that you fight in The Void?",Delirium,Mega Satan,Hush,The Lamb
+Science: Mathematics,multiple,hard,What is the fourth digit of &pi;?,1,2,3,4
+Entertainment: Film,multiple,easy,Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-lll?,Ewan McGregor,Alec Guinness,Hayden Christensen,Liam Neeson
+Entertainment: Japanese Anime &amp; Manga,boolean,easy,Gosho Aoyama Made This Series: (Detective Conan / Case Closed!),True,False,,
+Entertainment: Music,multiple,hard,Bj&ouml;rk&#039;s &quot;Unison&quot; contains a sample of which Oval song?,Aero Deck,Textuell,Panorama,Do While
+Entertainment: Musicals &amp; Theatres,multiple,medium,The musical &quot;Dirty Rotten Scoundrels&quot; is set in what country?,France,USA,Germany,Sweden
+Geography,multiple,hard,"What is the capital of Wisconsin, USA?",Madison,Milwaukee,Wisconsin Dells,Green Bay
+Entertainment: Television,multiple,medium,What is Meg&#039;s full name in &quot;Family Guy&quot;?,Megatron Griffin,Who-Cares Griffin,Neil Griffin,Megan Griffin
+General Knowledge,multiple,medium,What is the name of the very first video uploaded to YouTube?,Me at the zoo,tribute,carrie rides a truck,Her new puppy from great grandpa vern.
+Entertainment: Video Games,multiple,medium,In what year was Pok&eacute;mon Diamond &amp; Pearl released in Japan?,2006,2009,2007,2008
+Entertainment: Film,multiple,easy,What was Dorothy&#039;s surname in &#039;The Wizard Of Oz&#039;?,Gale,Perkins,Day,Parker
+Entertainment: Video Games,multiple,medium,What was the first Super Mario game ever released in North America for the 3DS?,Super Mario 3D Land,Super Mario Maker,New Super Mario Bros. 2,Mario Kart 7
+History,boolean,medium,Adolf Hitler was accepted into the Vienna Academy of Fine Arts.,False,True,,
+Science: Gadgets,multiple,hard,Who built the first laser?,Theodore Harold Maiman,Nikola Tesla,Jack Kilby,Edith Clarke
+Geography,multiple,easy,What colour is the circle on the Japanese flag?,Red,White,Yellow,Black
+Celebrities,multiple,medium,What is Doug Walker&#039;s YouTube name?,The Nostalgia Critic,The Angry Video Game Nerd,AngryJoeShow,The Cinema Snob
+Entertainment: Japanese Anime &amp; Manga,multiple,easy,Who was a voice actor for the English dubbing of HOWL&#039;S MOVING CASTLE (2004)?,Christian Bale,Matt Damon,Joseph Gordon-Levitt,Willem Dafoe
+Entertainment: Film,multiple,easy,The 2016 Disney animated film &#039;Moana&#039; is based on which culture?,Polynesian,Native American,Japanese,Nordic
+Entertainment: Board Games,multiple,hard,"In Magic: The Gathering, what term for blocking was established in the Portal set?",Intercepting,Blocking,Resisting,Shielding
+Entertainment: Video Games,multiple,hard,"In the &quot;Call Of Duty: Zombies&quot; map &quot;Origins&quot;, where is &quot;Stamin-Up&quot; located?",Generator 5,Generator 3,Generator 4,Excavation Site
+Entertainment: Music,boolean,easy,American rapper Dr. Dre actually has a Ph.D. doctorate.,False,True,,
+Entertainment: Video Games,multiple,hard,Which game was exclusive to Dreamcast?,Pen Pen TriIcelon,Sylvester &amp; Tweety in Cagey Capers,Perfect Dark,Tetrisphere
+Celebrities,multiple,easy,What was the cause of Marilyn Monroes suicide?,Drug Overdose,Knife Attack,House Fire,Gunshot
+Entertainment: Japanese Anime &amp; Manga,multiple,hard,"In &quot;One Piece&quot;, what does &quot;the Pirate King&quot; mean to the captain of the Straw Hat Pirates?",Freedom,Promise,Adventure,Friendship
+Entertainment: Film,multiple,medium,Who voices the main character Blu in the 2011 animated film &quot;Rio&quot;?,Jesse Eisenberg,Michael Cera,Jonah Hill,Zach Galifianakis
+Entertainment: Music,multiple,easy,Who is the frontman of the band 30 Seconds to Mars?,Jared Leto,Gerard Way,Matthew Bellamy,Mike Shinoda
+Entertainment: Music,multiple,medium,"From which album is the Gorillaz song, &quot;On Melancholy Hill&quot; featured in?",Plastic Beach,Demon Days,Humanz,The Fall
+General Knowledge,multiple,hard,"According to Fair Works Australia, how long do you have to work to get Long Service Leave?",7 years,2 years,8 years,6 months
+Entertainment: Music,multiple,medium,African-American performer Sammy Davis Jr. was known for losing which part of his body in a car accident?,Left Eye,Right Ear,Right Middle Finger,Nose
+Science &amp; Nature,multiple,hard,"What common name is given to the medial condition, tibial stress syndrome (MTSS)?",Shin Splints,Tennis Elbow,Carpal Tunnel,Housemaid&#039;s Knee
+Entertainment: Japanese Anime &amp; Manga,multiple,medium,"In &quot;Highschool DxD&quot;, Koneko Toujou is from what race?",Nekomata,Kitsune,Human,Kappa
+Geography,multiple,easy,Greenland is a part of which kingdom?,Denmark,Sweden,Norway,United Kingdom
+Entertainment: Video Games,multiple,medium,"Why were only only 300,000 copies of Uniracers were produced?","DMA Designs was sued by Pixar, preventing more copies from being produced",There was a disagreement between DMA Designs and Nintendo,It didn&#039;t sell well due to poor review scores,No public information is available
+Entertainment: Video Games,multiple,easy,Which of these levels does NOT appear in the console/PC versions of the game &quot;Sonic Generations&quot;?,Mushroom Hill,City Escape,Planet Wisp,Sky Sanctuary
+General Knowledge,multiple,medium,Who invented Pastafarianism?,Bobby Henderson,Eric Tignor,Bill Nye,Zach Soldi
