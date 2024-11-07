@@ -13,7 +13,8 @@ class Quiz:
             with open(file, mode='r', encoding='utf-8') as f:
                 reader = csv.DictReader(f)
                 for row in reader:
-                    options = [row["correct_answer"], row["incorrect_answer_1"], row["incorrect_answer_2"], row["incorrect_answer_3"]]
+                    # Filter out empty options
+                    options = [option for option in [row["correct_answer"], row["incorrect_answer_1"], row["incorrect_answer_2"], row["incorrect_answer_3"]] if option]
                     random.shuffle(options)  # Randomize the order of options
                     questions.append({
                         "question": row["question"],
