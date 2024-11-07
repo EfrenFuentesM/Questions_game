@@ -60,7 +60,7 @@ class Quiz:
         print(f"\nQuiz completed! Your final score is {score}/{total_questions}.")
 
 # Define the path to the questions file
-questions_file = os.path.expanduser("~/Desktop/questions.csv")
+questions_file = os.path.expanduser("~/Desktop/Questions_game/questions.csv")
 
 # Run the program
 quiz = Quiz(questions_file)
